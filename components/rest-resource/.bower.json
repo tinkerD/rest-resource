@@ -1,0 +1,42 @@
+{
+  "name": "rest-resource",
+  "authors": [
+    "Gazal <mohamed.gazal@gmail.com>"
+  ],
+  "description": "A web component that encapsulates REST API calls",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "rest"
+  ],
+  "main": "rest-resource.html",
+  "license": "MIT",
+  "homepage": "https://github.com/gazal-k/rest-resource",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/",
+    "/src/",
+    "/gulpfile.js",
+    "/package.json"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "b87aa484fd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b87aa484fdf2e039cf77c09dccd9c30ed077bb6a"
+  },
+  "_source": "git://github.com/gazal-k/rest-resource.git",
+  "_target": "master",
+  "_originalSource": "gazal-k/rest-resource",
+  "_direct": true
+}
